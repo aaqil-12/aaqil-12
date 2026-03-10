@@ -54,15 +54,6 @@ My focus is on building **reliable, scalable systems that enable intelligent aut
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aaqil-12&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaqil-12&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🌐 Connect
 
 GitHub: https://github.com/aaqil-12  
