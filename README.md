@@ -1,50 +1,65 @@
-# Muqaddam Aaqil Sheriff 👨‍💻
-
-**AI Systems • Data Engineering • Behavioral Cybersecurity**
-
-I build **intelligent data systems** and study how **human decision-making influences cybersecurity adversaries**. My work combines **AI, large-scale data pipelines, and behavioral analysis** to understand and defend complex digital systems.
-
----
-
-## ⚙️ What I Work On
-
-- AI-driven data engineering  
-- Large-scale ETL and data infrastructure  
-- LLM-powered information extraction  
-- Cloud-native systems and automation  
-- Behavioral cybersecurity research  
+<!-- Animated Typing Header -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Muqaddam+Aaqil+Sheriff;AI+Systems+%7C+Data+Engineering+%7C+Cybersecurity;Building+Intelligent+Data+Systems;Researching+Adversarial+Decision+Making" />
+</p>
 
 ---
 
-## 🧠 Research Focus
+# Muqaddam Aaqil Sheriff
 
-Exploring how **cognitive biases affect cyber-adversarial decision making**, including:
+🧠 **AI Systems • Data Engineering • Behavioral Cybersecurity**
 
-- Sunk Cost Fallacy  
-- Default Effects  
-- Behavioral persistence in cyber attacks  
+I work at the intersection of **artificial intelligence, large-scale data systems, and behavioral cybersecurity**. My work focuses on building intelligent data infrastructure while studying how **human decision-making and cognitive biases influence cyber adversaries**.
 
-Goal: **design smarter, psychologically informed cyber-defense systems.**
+I am particularly interested in combining **data-driven analysis with behavioral research** to design more effective and psychologically informed cyber-defense systems.
 
 ---
 
-## 🛠 Tech Stack
+## 🔬 Research
 
-**Languages & Data**
+My research explores **how cognitive biases affect cyber-adversarial decision making**.
 
-Python • SQL • Pandas • NumPy  
+Areas of focus include:
 
-**Cloud & Infrastructure**
+- Sunk Cost Fallacy in adversarial persistence  
+- Default effects and positional bias in cyber decisions  
+- Behavioral vulnerabilities in cyber attack strategies  
+- Data-driven analysis of attacker decision patterns  
 
-AWS • Docker • Kubernetes  
+The goal is to build **psychologically informed cyber-defense systems** that understand attacker behavior.
 
-**Frameworks & APIs**
+---
 
-FastAPI • Flask • LLM Integration  
+## 🏭 Industry Experience
 
-**Databases**
+I have worked on **large-scale data engineering and AI systems**, building platforms that process massive volumes of structured and unstructured data.
 
-MySQL • PostgreSQL  
+My work includes:
+
+- Designing **AI-powered data migration platforms** for complex legacy systems  
+- Building **high-throughput ETL pipelines** for large-scale data processing  
+- Developing **LLM-powered information extraction systems** for document analysis  
+- Deploying scalable systems using **cloud infrastructure, containers, and CI/CD**
+
+My focus is on building **reliable, scalable systems that enable intelligent automation.**
+
+---
+
+## ⚙️ Technical Focus
+
+- **Python & SQL for large-scale data processing**
+- **Machine learning & LLM-driven systems**
+- **Cloud infrastructure and distributed data pipelines**
+- **Relational database architecture**
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aaqil-12&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaqil-12&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -57,4 +72,4 @@ Email: aaqilsher12@gmail.com
 
 ---
 
-⭐ Building scalable systems, studying adversarial intelligence, and exploring the intersection of **AI and human behavior**.
+⭐ Building intelligent systems, scalable data infrastructure, and research-driven technologies.
